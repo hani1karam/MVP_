@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3934540B-636B-4A59-A644-E3B7DF7AA3F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3934540B-636B-4A59-A644-E3B7DF7AA3F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVP</string>
+			<key>timeStartedRecording</key>
+			<real>628825255.83644497</real>
+			<key>timeStoppedRecording</key>
+			<real>628825269.60693097</real>
+			<key>title</key>
+			<string>Build MVP</string>
+			<key>uniqueIdentifier</key>
+			<string>3934540B-636B-4A59-A644-E3B7DF7AA3F7</string>
+		</dict>
+		<key>8BAB9AF8-D99C-473B-A270-8E05FA95FB33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8BAB9AF8-D99C-473B-A270-8E05FA95FB33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVP</string>
+			<key>timeStartedRecording</key>
+			<real>628825520.63198996</real>
+			<key>timeStoppedRecording</key>
+			<real>628825521.24790895</real>
+			<key>title</key>
+			<string>Build MVP</string>
+			<key>uniqueIdentifier</key>
+			<string>8BAB9AF8-D99C-473B-A270-8E05FA95FB33</string>
+		</dict>
+		<key>F1E34E0D-264B-4462-9F45-41FD0D8F84C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1E34E0D-264B-4462-9F45-41FD0D8F84C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVP</string>
+			<key>timeStartedRecording</key>
+			<real>628825557.27747202</real>
+			<key>timeStoppedRecording</key>
+			<real>628825559.98720706</real>
+			<key>title</key>
+			<string>Build MVP</string>
+			<key>uniqueIdentifier</key>
+			<string>F1E34E0D-264B-4462-9F45-41FD0D8F84C1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
