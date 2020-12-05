@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "590bf137e53e512f4925503e1f078c7d"
+build_time: [1607105404, 319030000]
+inputs:
+  "/Users/hanykaram/Desktop/MVP/MVP/Controller/Extenstion.swift": [1607105221, 258749945]
+  "/Users/hanykaram/Desktop/MVP/MVP/StoaryBoard.swift": [1607105221, 240042931]
+  "/Users/hanykaram/Desktop/MVP/MVP/Model/Network/NetworkManager.swift": [1607104945, 41242427]
+  "/Users/hanykaram/Desktop/MVP/MVP/Model/Network/BaseURL.swift": [1607104492, 889919929]
+  "/Users/hanykaram/Desktop/MVP/MVP/Controller/LoginVC.swift": [1607105147, 728832449]
+  "/Users/hanykaram/Desktop/MVP/MVP/AppDelegate.swift": [1607101917, 188833175]
+  "/Users/hanykaram/Desktop/MVP/MVP/Controller/LoginPresnter.swift": [1607105086, 582249244]
+  "/Users/hanykaram/Desktop/MVP/MVP/Custome + Extenstion/ActivityIndector.swift": [1607104703, 223556946]
+  "/Users/hanykaram/Desktop/MVP/MVP/SceneDelegate.swift": [1607101917, 195484968]
+  "/Users/hanykaram/Desktop/MVP/MVP/Model/LoginModel.swift": [1607104315, 341508358]
+  "/Users/hanykaram/Desktop/MVP/MVP/Custome + Extenstion/CutsomeButton.swift": [1607104040, 792153533]
+  "/Users/hanykaram/Desktop/MVP/MVP/Custome + Extenstion/CustomeView.swift": [1607103864, 243483710]

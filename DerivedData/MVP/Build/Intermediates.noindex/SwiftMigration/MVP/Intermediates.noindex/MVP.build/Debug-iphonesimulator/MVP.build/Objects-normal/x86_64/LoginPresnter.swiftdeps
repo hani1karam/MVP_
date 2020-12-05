@@ -1,0 +1,168 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginToDo"
+- "LoginPresenter"
+provides-nominal:
+- "3MVP9LoginToDoP"
+- "3MVP14LoginPresenterC"
+provides-member:
+- ["3MVP9LoginToDoP", ""]
+- ["3MVP14LoginPresenterC", ""]
+provides-dynamic-lookup:
+- "LoginButtonClick"
+- "ViewLogin"
+- "loginModel"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "LoginModel"
+- "LoginPresenter"
+- "LoginToDo"
+- "LoginVC"
+- !private "NetWorkManager"
+- "String"
+- !private "login"
+- !private "print"
+depends-member:
+- !private ["3MVP18BaseViewControllerC", "HideLoading"]
+- !private ["3MVP18BaseViewControllerC", "showLoading"]
+- !private ["s7CVarArgP", "HideLoading"]
+- !private ["s7CVarArgP", "showLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "HideLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "showLoading"]
+- !private ["s23CustomStringConvertibleP", "HideLoading"]
+- !private ["s23CustomStringConvertibleP", "showLoading"]
+- !private ["SQ", "HideLoading"]
+- !private ["SQ", "post"]
+- !private ["SQ", "showLoading"]
+- !private ["9Alamofire10HTTPMethodO", "post"]
+- !private ["SH", "HideLoading"]
+- !private ["SH", "post"]
+- !private ["SH", "showLoading"]
+- !private ["3MVP10LoginModelV", "deinit"]
+- ["3MVP14LoginPresenterC", "LoginButtonClick"]
+- ["3MVP14LoginPresenterC", "LoginModel"]
+- ["3MVP14LoginPresenterC", "LoginVC"]
+- !private ["3MVP14LoginPresenterC", "NetWorkManager"]
+- ["3MVP14LoginPresenterC", "ViewLogin"]
+- ["3MVP14LoginPresenterC", "deinit"]
+- ["3MVP14LoginPresenterC", "init"]
+- !private ["3MVP14LoginPresenterC", "login"]
+- ["3MVP14LoginPresenterC", "loginModel"]
+- !private ["3MVP14LoginPresenterC", "print"]
+- !private ["3MVP9LoginToDoP", "HideLoading"]
+- ["3MVP9LoginToDoP", "String"]
+- ["3MVP9LoginToDoP", "getDataSuccessfully"]
+- ["3MVP9LoginToDoP", "showError"]
+- !private ["3MVP9LoginToDoP", "showLoading"]
+- !private ["3MVP7LoginVCC", "HideLoading"]
+- !private ["3MVP7LoginVCC", "showLoading"]
+- !private ["So8NSCodingP", "HideLoading"]
+- !private ["So8NSCodingP", "showLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "HideLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "showLoading"]
+- !private ["So8NSObjectC", "HideLoading"]
+- !private ["So8NSObjectC", "showLoading"]
+- !private ["So8NSObjectP", "HideLoading"]
+- !private ["So8NSObjectP", "showLoading"]
+- !private ["3MVP14NetWorkManagerC", "API"]
+- !private ["3MVP14NetWorkManagerC", "instance"]
+- !private ["SY", "post"]
+- !private ["So21UIAppearanceContainerP", "HideLoading"]
+- !private ["So21UIAppearanceContainerP", "showLoading"]
+- !private ["So18UIContentContainerP", "HideLoading"]
+- !private ["So18UIContentContainerP", "showLoading"]
+- !private ["So18UIFocusEnvironmentP", "HideLoading"]
+- !private ["So18UIFocusEnvironmentP", "showLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "HideLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "showLoading"]
+- !private ["So11UIResponderC", "HideLoading"]
+- !private ["So11UIResponderC", "showLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "HideLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "showLoading"]
+- !private ["So16UIStateRestoringP", "HideLoading"]
+- !private ["So16UIStateRestoringP", "showLoading"]
+- !private ["So18UITraitEnvironmentP", "HideLoading"]
+- !private ["So18UITraitEnvironmentP", "showLoading"]
+- !private ["So23UIUserActivityRestoringP", "HideLoading"]
+- !private ["So23UIUserActivityRestoringP", "showLoading"]
+- !private ["So16UIViewControllerC", "HideLoading"]
+- !private ["So16UIViewControllerC", "showLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HideLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HideLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showLoading"]
+depends-nominal:
+- !private "3MVP18BaseViewControllerC"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "9Alamofire10HTTPMethodO"
+- !private "SH"
+- !private "3MVP10LoginModelV"
+- "3MVP14LoginPresenterC"
+- "3MVP9LoginToDoP"
+- !private "3MVP7LoginVCC"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "3MVP14NetWorkManagerC"
+- !private "SY"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Intermediates.noindex/SwiftMigration/MVP/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7b0ff140d1ae6f0f5bbfdd67aa995c1e"

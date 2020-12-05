@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "d7f47245a11694f8a9f23acf77be2c65"
+build_time: [1607105348, 150441000]
+inputs:
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/AFError.swift": [1607104341, 856316593]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Alamofire.swift": [1607104341, 872403054]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1607104341, 852038228]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/MultipartFormData.swift": [1607104341, 850084421]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1607104341, 851096265]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Notifications.swift": [1607104341, 858133207]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/ParameterEncoding.swift": [1607104341, 854972035]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Request.swift": [1607104341, 873759591]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Response.swift": [1607104341, 870701151]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/ResponseSerialization.swift": [1607104341, 878108975]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Result.swift": [1607104341, 853199752]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1607104341, 879037780]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/SessionDelegate.swift": [1607104341, 880967003]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/SessionManager.swift": [1607104341, 875659224]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/TaskDelegate.swift": [1607104341, 847940861]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Timeline.swift": [1607104341, 851632633]
+  "/Users/hanykaram/Desktop/MVP/Pods/Alamofire/Source/Validation.swift": [1607104341, 857281716]

@@ -1,0 +1,311 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "3MVP7LoginVCC"
+provides-member:
+- ["3MVP7LoginVCC", ""]
+provides-dynamic-lookup:
+- "getDataSuccessfully"
+- "showError"
+depends-top-level:
+- !private "BooleanLiteralType"
+- "LoginToDo"
+- "LoginVC"
+- !private "ScreenID"
+- !private "Storyboards"
+- "String"
+- !private "UIStoryboard"
+- !private "print"
+depends-member:
+- !private ["3MVP18BaseViewControllerC", "ScreenID"]
+- !private ["3MVP18BaseViewControllerC", "Storyboards"]
+- ["3MVP18BaseViewControllerC", "String"]
+- !private ["3MVP18BaseViewControllerC", "UIStoryboard"]
+- ["3MVP18BaseViewControllerC", "getDataSuccessfully"]
+- !private ["3MVP18BaseViewControllerC", "navigationController"]
+- !private ["3MVP18BaseViewControllerC", "print"]
+- ["3MVP18BaseViewControllerC", "showError"]
+- !private ["s7CVarArgP", "ScreenID"]
+- !private ["s7CVarArgP", "Storyboards"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", "getDataSuccessfully"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "pushViewController"]
+- ["s7CVarArgP", "showError"]
+- !private ["s28CustomDebugStringConvertibleP", "ScreenID"]
+- !private ["s28CustomDebugStringConvertibleP", "Storyboards"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", "getDataSuccessfully"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "pushViewController"]
+- ["s28CustomDebugStringConvertibleP", "showError"]
+- !private ["s23CustomStringConvertibleP", "ScreenID"]
+- !private ["s23CustomStringConvertibleP", "Storyboards"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", "getDataSuccessfully"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "pushViewController"]
+- ["s23CustomStringConvertibleP", "showError"]
+- !private ["SQ", "ScreenID"]
+- !private ["SQ", "Storyboards"]
+- !private ["SQ", "UIStoryboard"]
+- ["SQ", "getDataSuccessfully"]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "print"]
+- !private ["SQ", "pushViewController"]
+- ["SQ", "showError"]
+- !private ["SH", "ScreenID"]
+- !private ["SH", "Storyboards"]
+- !private ["SH", "UIStoryboard"]
+- ["SH", "getDataSuccessfully"]
+- !private ["SH", "init"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "print"]
+- !private ["SH", "pushViewController"]
+- ["SH", "showError"]
+- !private ["3MVP9LoginToDoP", "ScreenID"]
+- !private ["3MVP9LoginToDoP", "Storyboards"]
+- !private ["3MVP9LoginToDoP", "UIStoryboard"]
+- ["3MVP9LoginToDoP", ""]
+- ["3MVP9LoginToDoP", "getDataSuccessfully"]
+- !private ["3MVP9LoginToDoP", "navigationController"]
+- !private ["3MVP9LoginToDoP", "print"]
+- ["3MVP9LoginToDoP", "showError"]
+- !private ["3MVP7LoginVCC", "ScreenID"]
+- !private ["3MVP7LoginVCC", "Storyboards"]
+- ["3MVP7LoginVCC", "String"]
+- !private ["3MVP7LoginVCC", "UIStoryboard"]
+- ["3MVP7LoginVCC", "deinit"]
+- ["3MVP7LoginVCC", "getDataSuccessfully"]
+- !private ["3MVP7LoginVCC", "navigationController"]
+- !private ["3MVP7LoginVCC", "print"]
+- ["3MVP7LoginVCC", "showError"]
+- !private ["So8NSCodingP", "ScreenID"]
+- !private ["So8NSCodingP", "Storyboards"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- ["So8NSCodingP", "getDataSuccessfully"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "pushViewController"]
+- ["So8NSCodingP", "showError"]
+- !private ["So26NSExtensionRequestHandlingP", "ScreenID"]
+- !private ["So26NSExtensionRequestHandlingP", "Storyboards"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- ["So26NSExtensionRequestHandlingP", "getDataSuccessfully"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "pushViewController"]
+- ["So26NSExtensionRequestHandlingP", "showError"]
+- !private ["So8NSObjectC", "ScreenID"]
+- !private ["So8NSObjectC", "Storyboards"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- ["So8NSObjectC", "getDataSuccessfully"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "pushViewController"]
+- ["So8NSObjectC", "showError"]
+- !private ["So8NSObjectP", "ScreenID"]
+- !private ["So8NSObjectP", "Storyboards"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- ["So8NSObjectP", "getDataSuccessfully"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "pushViewController"]
+- ["So8NSObjectP", "showError"]
+- !private ["3MVP8ScreenIDV", "Home"]
+- !private ["3MVP11StoryboardsV", "main"]
+- !private ["So21UIAppearanceContainerP", "ScreenID"]
+- !private ["So21UIAppearanceContainerP", "Storyboards"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- ["So21UIAppearanceContainerP", "getDataSuccessfully"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "pushViewController"]
+- ["So21UIAppearanceContainerP", "showError"]
+- !private ["So18UIContentContainerP", "ScreenID"]
+- !private ["So18UIContentContainerP", "Storyboards"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- ["So18UIContentContainerP", "getDataSuccessfully"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "pushViewController"]
+- ["So18UIContentContainerP", "showError"]
+- !private ["So18UIFocusEnvironmentP", "ScreenID"]
+- !private ["So18UIFocusEnvironmentP", "Storyboards"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- ["So18UIFocusEnvironmentP", "getDataSuccessfully"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "pushViewController"]
+- ["So18UIFocusEnvironmentP", "showError"]
+- !private ["So22UINavigationControllerC", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "ScreenID"]
+- !private ["So30UIPasteConfigurationSupportingP", "Storyboards"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- ["So30UIPasteConfigurationSupportingP", "getDataSuccessfully"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "pushViewController"]
+- ["So30UIPasteConfigurationSupportingP", "showError"]
+- !private ["So11UIResponderC", "ScreenID"]
+- !private ["So11UIResponderC", "Storyboards"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- ["So11UIResponderC", "getDataSuccessfully"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "pushViewController"]
+- ["So11UIResponderC", "showError"]
+- !private ["So30UIResponderStandardEditActionsP", "ScreenID"]
+- !private ["So30UIResponderStandardEditActionsP", "Storyboards"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- ["So30UIResponderStandardEditActionsP", "getDataSuccessfully"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "pushViewController"]
+- ["So30UIResponderStandardEditActionsP", "showError"]
+- !private ["So16UIStateRestoringP", "ScreenID"]
+- !private ["So16UIStateRestoringP", "Storyboards"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- ["So16UIStateRestoringP", "getDataSuccessfully"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "pushViewController"]
+- ["So16UIStateRestoringP", "showError"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So18UITraitEnvironmentP", "ScreenID"]
+- !private ["So18UITraitEnvironmentP", "Storyboards"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- ["So18UITraitEnvironmentP", "getDataSuccessfully"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "pushViewController"]
+- ["So18UITraitEnvironmentP", "showError"]
+- !private ["So23UIUserActivityRestoringP", "ScreenID"]
+- !private ["So23UIUserActivityRestoringP", "Storyboards"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- ["So23UIUserActivityRestoringP", "getDataSuccessfully"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "pushViewController"]
+- ["So23UIUserActivityRestoringP", "showError"]
+- !private ["So16UIViewControllerC", "ScreenID"]
+- !private ["So16UIViewControllerC", "Storyboards"]
+- ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", "getDataSuccessfully"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "pushViewController"]
+- ["So16UIViewControllerC", "showError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ScreenID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Storyboards"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "getDataSuccessfully"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pushViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "showError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ScreenID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Storyboards"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIStoryboard"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getDataSuccessfully"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiateViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pushViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showError"]
+depends-nominal:
+- "3MVP18BaseViewControllerC"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "3MVP9LoginToDoP"
+- "3MVP7LoginVCC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "3MVP8ScreenIDV"
+- !private "3MVP11StoryboardsV"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVP/DerivedData/MVP/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5f246386c2242d25a1164fabcb6400de"
